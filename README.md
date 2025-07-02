@@ -20,3 +20,6 @@ The loadQuestion() function populates the quiz area with the current question an
 Clicking the “Next” button increments the currentQuestion index and reloads the next question using the same mechanism, hiding the button until another answer is chosen. Once the user has completed all the questions, the app calls the showScore() function, which updates the interface to display a final message of “Quiz Completed!” and the user's total score out of the total number of questions. The options area and next button are both cleared to signify the end of the session.
 Altogether, this project serves as a practical and hands-on example of how to create an engaging user experience with pure front-end code. It reinforces concepts like modular code organization, clean UI design, user feedback loops, and responsive behavior. Moreover, its simplicity makes it highly extensible—developers can easily add features such as question randomization, scoring animations, or local storage integration to record high scores. Ideal for portfolios, workshops, coding bootcamps, or just fun personal challenges, the Interactive Quiz App demonstrates that effective web applications don’t require complex stacks—just solid understanding of the fundamentals.
 
+*OUTPUT*:
+
+![Image](https://github.com/user-attachments/assets/c6a95c17-9c0e-44a1-bfa1-0f86882501fe)
